@@ -7,6 +7,9 @@
 # ====================================================================================
 # ABOUT
 # ====================================================================================
+# Updated "Batch export to mesh" macro for exporting ASCII STL files and combining  
+# seperate surfaces into one file for cfMesh and OpenFOAM
+# ====================================================================================
 # Macro developed for FreeCAD (http://www.freecadweb.org/).
 # This macro helps exporting STL and OBJ files. It adds a GUI for speeding up the conversion
 # and file saving of the selected objects.
