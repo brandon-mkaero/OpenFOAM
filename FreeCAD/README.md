@@ -23,7 +23,7 @@ The macro automates the process of exporting multiple FreeCAD objects to mesh fo
 
 ## Requirements
 
-- **FreeCAD**: Tested with FreeCAD version 0.17 and above.
+- **FreeCAD**: Tested with FreeCAD version 1.0.0.
 - **Python**: Comes with Python libraries included with FreeCAD.
 - **Dependencies**: Standard dependencies include FreeCAD modules, PySide for the GUI, and MeshPart for mesh operations.
 
