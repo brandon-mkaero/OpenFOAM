@@ -54,4 +54,4 @@ This project is licensed under the [GNU Lesser General Public License (LGPL)](ht
 
 ## Acknowledgements
 
-- **Original Macro**: This macro is based on the original "Batch Export Surfaces to Mesh" macro developed for FreeCAD (https://github.com/pgilfernandez/FreeCAD_Macro_Batch_Export_To_Mesh)
+- [**Original Macro**]: This macro is based on the original "Batch Export Surfaces to Mesh" macro developed for FreeCAD.(https://github.com/pgilfernandez/FreeCAD_Macro_Batch_Export_To_Mesh)
